@@ -6,3 +6,4 @@ nltk
 natsort
 fire
 opencv-python
+msgspec
