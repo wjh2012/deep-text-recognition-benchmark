@@ -208,3 +208,4 @@ $RECYCLE.BIN/
 *.lnk
 
 !requirements.txt
+**/wjh_data/
